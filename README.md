@@ -1,3 +1,7 @@
+# CarbonRiskAI
+🌍 Overview
+CarbonRiskAI is a multi-modal AI system designed to estimate carbon risk scores of companies using both structured ESG data and unstructured sustainability reports. This project is aimed at addressing one of the most critical challenges in climate analytics and green finance.
+
 🔥 Why This Project Is Top-Tier (Hard + Valuable)
 ✅ 1. Multi-Modal AI
 Combines structured numeric data (emissions, ESG, certifications)
@@ -39,3 +43,6 @@ AI for sustainability
 
 🌟 Verdict:
 Yes — this is definitely your hardest and most impressive project so far, and far above average student-level work. If you complete and document it well, it will open doors for research internships and climate-tech roles.
+
+
+![image](https://github.com/user-attachments/assets/9a34f1cb-ce93-479e-b1aa-a2f544f8ee7a)
